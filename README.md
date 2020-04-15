@@ -2,7 +2,11 @@
 
 Copyright 2020 Splunk, Inc.
 
-This app is used to collect Openweather API Data. 
+This app is used to collect Openweathermap API Data. 
+
+## Requirements
+
+In order to use this app, you will still need to agree and follow Openweathermap API Rules and sign-up for an account on their system. More information on that here: https://openweathermap.org/api
 
 ## Installation
 
