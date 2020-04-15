@@ -1,4 +1,4 @@
-# Openweather API App
+# Connect Openweathermap API to Splunk
 
 Copyright 2020 Splunk, Inc.
 
