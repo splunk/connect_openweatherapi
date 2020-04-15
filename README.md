@@ -2,7 +2,7 @@
 
 Copyright 2020 Splunk, Inc.
 
-This app is used to collected Openweather API Data. 
+This app is used to collect Openweather API Data. 
 
 ## Installation
 
