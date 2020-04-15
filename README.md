@@ -12,7 +12,18 @@ In order to use this app, you will still need to agree and follow Openweathermap
 
 1. Clone the app into $SPLUNK_HOME/etc/apps/
 2. Modify $SPLUNK_HOME/etc/apps/connect_openweatherapi/bin/get_one_api_call.py
-* Modifying this file means adjusting your specific lat/lon and adding in your specific API Key. 
+* Modifying this file means adjusting your specific lat/lon and adding in your specific API Key inside of the get_one_api_call.py file. 
+
+```
+#lat/lon
+#Uncomment these lines for Staten Island NY
+#lat = "40.643501"
+#lon = "-74.076202"
+
+#api_key
+api_key=""
+```
+
 3. Enable the Scripted Input via the Splunk GUI. 
 
 ## Future State/Plans
