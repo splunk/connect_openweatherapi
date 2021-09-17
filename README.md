@@ -26,8 +26,7 @@ api_key=""
 
 3. Enable the Scripted Input via the Splunk GUI. 
 
-
-### Scripted Input
+## Scripted Input
 
 By default, the scripted input will run once every 10 minutes. There is no need to increase this as Openweathermap API Only updates once every 10 minutes. Setting this any more frequent is at your own discretion. 
 
